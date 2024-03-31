@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClassProject</string>
+
+    <style name="editTextStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginBottom">12dp</item>
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+    </style>
+</resources>
